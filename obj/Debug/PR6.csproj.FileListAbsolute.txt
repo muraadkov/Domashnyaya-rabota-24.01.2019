@@ -1,0 +1,7 @@
+c:\users\адылкановм\source\repos\PR6\PR6\bin\Debug\PR6.exe.config
+c:\users\адылкановм\source\repos\PR6\PR6\bin\Debug\PR6.exe
+c:\users\адылкановм\source\repos\PR6\PR6\bin\Debug\PR6.pdb
+c:\users\адылкановм\source\repos\PR6\PR6\obj\Debug\PR6.csprojAssemblyReference.cache
+c:\users\адылкановм\source\repos\PR6\PR6\obj\Debug\PR6.csproj.CoreCompileInputs.cache
+c:\users\адылкановм\source\repos\PR6\PR6\obj\Debug\PR6.exe
+c:\users\адылкановм\source\repos\PR6\PR6\obj\Debug\PR6.pdb
